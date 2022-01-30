@@ -1,5 +1,7 @@
-Version 0.2 
+Last Version: v1.2
 
-
--Added Customizable Watermark
--Added Customizable Under Crosshair Indicators
+-Added fully customizable Anti-Aim
+-Reworked how watermark works
+-Added remove thirdperson animation to the "Visuals" tab.
+-Added Custom scope and viewmodel in scope.
+-Small bugfixes.
