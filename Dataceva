@@ -1,9 +1,13 @@
-Last Version: v1.2
+Last Version: v1.5
 
--Added fully customizable Anti-Aim
--Reworked how watermark works
+-Added fully customizable Anti-Aim.
+-Added Smart Anti-Aim features.
+-Reworked how watermark works.
 -Added remove thirdperson animation to the "Visuals" tab.
 -Added Custom scope and viewmodel in scope.
+-Added Legbreaker.
+-Added Debug lines.
+-Added Config System
 -Small bugfixes.
 
 
