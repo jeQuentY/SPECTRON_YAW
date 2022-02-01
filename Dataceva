@@ -8,7 +8,7 @@ Last Version: v1.5
 -Added Legbreaker.
 -Added Debug lines.
 -Added Config System
--Small bugfixes.
+-Fixed the script unloading sometimes.
 
 
 Current Spectron YAW build: STABLE
