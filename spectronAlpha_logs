@@ -1,9 +1,10 @@
-Last Version: v1.6
-Last update: 02.02.2022
+Last Version: v1.7
+Last update: 04.02.2022
 
--Added Ragebot tab.
--Added Fakelag section in ragebot tab.
--Added Doubletap section in ragebot tab.
+-Fully recoded LUA
+-Fixed all crashes related to disconnecting.
+-Added jumpscout fix.
+-Added Rage tab.
 
 
 Current Spectron YAW build: ALPHA
