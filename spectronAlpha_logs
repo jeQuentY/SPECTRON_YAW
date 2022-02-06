@@ -1,11 +1,12 @@
-Last Version: v1.7
-Last update: 04.02.2022
+Last Version: v1.8 ALPHA
+Last update: 06.02.2022
 
--Fully recoded LUA
--Fixed all crashes related to disconnecting.
--Added jumpscout fix.
--Added Rage tab.
--Added anti backstab
+-Fixed issues with antiaim.
+-Added Logs (On screen, In console and buylogs).
+-Small bugfixes.
+-Cannot remember if i added something else LOL.
 
 
+
+Script awaiting approval.
 Current Spectron YAW build: ALPHA
