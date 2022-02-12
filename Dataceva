@@ -1,16 +1,21 @@
-Last Version: v1.7
-Last update: 04.02.2022
 
--Pushed Alpha build to live (contains the following)
--Recoded the whole LUA.
--Anti-Aim bugfixes.
--Added Legbreaker in MISC section.
--Added Jumpscout fix in MISC section.
--Added a whole new Ragebot section.
--Added fakelag while doubletapping.
--Added custom fakelag.
--Added doubletap improvements (shift adjustments and clock correction).
--Added anti-backstab.
--Fixed all unloading issues as well as crashes.
+Last Version: v2.0 
+Last update: 12.02.2022
 
+[MAJOR UPDATE]:
+-Pushed alpha build to stable.
+-Fixed ragebot section issues with doubletap (unloading script).
+-Improved fakelag on doubletap performance (reduced unregistered shots).
+-Added teleport while in air in Anti-Aim section.
+-Added 2 more options under "Crosshair elements" in Visuals tab (AA INFO, Binds).
+-Added SOME animations, more to come.
+-Reworked logs (New looks, fully animated, new options to make them appear in the top left corner.)
+-Added "Animations" tab under Misc (contains static legs in air, zero pitch on land, leg breaker with 2 modes).
+-Fully reworked config section (please show some love it took me way too long).
+
+[INFO]:
+-Configs are now sharable, you can share them with your friends/other people <3.
+
+
+Script currently awaiting approval.
 Current Spectron YAW build: STABLE
