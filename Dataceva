@@ -4,11 +4,14 @@ Last update: 12.02.2022
 
 [MAJOR UPDATE]:
 -Pushed alpha build to stable.
+-Recoded whole LUA.
 -Fixed ragebot section issues with doubletap (unloading script).
 -Improved fakelag on doubletap performance (reduced unregistered shots).
 -Added teleport while in air in Anti-Aim section.
 -Added 2 more options under "Crosshair elements" in Visuals tab (AA INFO, Binds).
+-Added Custom desyncbar color override.
 -Added SOME animations, more to come.
+-Reworked how the Misc tab works in general, as well as menu visibility.
 -Reworked logs (New looks, fully animated, new options to make them appear in the top left corner.)
 -Added "Animations" tab under Misc (contains static legs in air, zero pitch on land, leg breaker with 2 modes).
 -Fully reworked config section (please show some love it took me way too long).
