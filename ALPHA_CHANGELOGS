@@ -1,0 +1,21 @@
+Last update: 06.03.2022
+
+[CHANGELOGS]:
+-Pushed alpha build to stable.
+-Fixed ragebot section issues with doubletap (unloading script).
+-Improved Anti-Aim.
+-Added Custom Slowwalk speed.
+-Added Roll AA (with ghetto movementfix)
+-Small tweaks to anti bruteforce.
+-Added Keybinds.
+-Added Spectator list.
+-Recoded watermark.
+-Changed how MISC tab looks/works.
+-Changed leg breaker mode: JITTER. (now invertable)
+-Added Default config to CONFIG tab.
+-Small bugfixes.
+
+
+
+Script currently awaiting approval.
+Current Spectron YAW build: STABLE
