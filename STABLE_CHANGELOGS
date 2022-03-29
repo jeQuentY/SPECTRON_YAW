@@ -1,13 +1,15 @@
-[CHANGELOGS]:
+[MASSIVE UPDATE]:
 
-- Changed how Anti-Aim tab looks.
-- Added AA presets.
-- Added Dormant Jitter.
-- Changed how on-screen logs look.
-- Added anti-brute logs.
-- Small back-end changes to config system.
-- Lots of bugfixes and improvements.
-
+-Fully reworked LUA (full recode).
+-Reworked Anti-Aim.
+-Reworked Rage-Bot.
+-Changed Anti-Aim Arrows.
+-Added "FL" indicator if no exploit is active.
+-Reworked Roll AA.
+-Reworked Avoid Backstab.
+-Added Killsay.
+-Reworked Config System.
+-Fully redesigned menu.
 
 
 Current Spectron YAW build: STABLE 
