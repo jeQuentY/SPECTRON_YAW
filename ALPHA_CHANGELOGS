@@ -1,16 +1,14 @@
 [CHANGELOGS]:
 
--Renamed Welcome tab to Home.
--Fully fixed Fakelag.
--Improvements to Extended Body Lean (especially on manual roll).
--Reworked movementfix for Extended Body Lean.
--Added Force disable Extended Body (temporary fix for defuse issues).
--Added Smart Wall Detection (ghetto but works -i recommend disabling it).
--Reworked under crosshair indicators.
--Added Reset Settings.
--Reworked Default Config (automatically loads without pastebin).
--Changed general aspect of Home tab and Config tab.
-
-
-
-Current Spectron YAW build: ALPHA
+-Recoded LUA.
+-Reworked Rage Tab.
+-Reworked Logical AA logic.
+-Improved Tank AA.
+-Added Anti-Bruteforce (Phase based).
+-Small Visual Tweaks.
+-Added GS Autopeek.
+-Added Alpha Tab (Alpha only duh).
+-Added Debug Window.
+-Added Custom Hitsounds.
+-Added Intro.
+-Bug fixes.
